@@ -1,0 +1,2 @@
+/usr/bin/ar qc libides-s3.a CMakeFiles/ides-s3.dir/ides-s3.cpp.o
+/usr/bin/ranlib libides-s3.a
